@@ -1,0 +1,19 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/pg": "^8.11.10",
+    "inquirer": "^8.2.4",
+    "pg": "^8.13.0",
+    "typescript": "^5.6.3"
+  }
+}
