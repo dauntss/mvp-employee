@@ -9,7 +9,7 @@
 This is a CLI application that allows an employer to manange employee databases!
 
 ## Table of Contents
-
+ 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributions](#contributions)
