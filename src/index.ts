@@ -28,7 +28,7 @@ async function mainMenu() {
                 'Exit',
             ],
         },
-    ]);
+    ]); 
 
     switch (action) {
         case 'View all departments':

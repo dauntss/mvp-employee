@@ -19,7 +19,7 @@ const pool = new pg_1.default.Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'employees',
-    password: '20Trixie12*',
+    password: '2589',
     port: 5432, // Default PostgreSQL port
 });
 // Function to display the main menu
